@@ -48,12 +48,5 @@ Desarrollé este sitio para un evento organizado por Rotary, aplicando buenas pr
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-[![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lean-05&show_icons=true&theme=tokyonight)](https://github.com/Lean-05)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lean-05&layout=compact&theme=tokyonight)](https://github.com/Lean-05)
-
----
 
 Gracias por visitar mi perfil. ¡Nos vemos en el código! 🚀
