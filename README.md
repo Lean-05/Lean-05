@@ -39,12 +39,11 @@ Desarrollé este sitio para un evento organizado por Rotary, aplicando buenas pr
 
 ¿Te interesa trabajar conmigo o simplemente charlar sobre desarrollo web? Estaré encantado de conectar.
 
-**Próximamente agregaré mis redes:**
-- Instagram
-- LinkedIn
-- Facebook
+### 🌐 Redes y contacto
 
-📩 *(Aquí también podrás añadir tu correo electrónico o formulario de contacto cuando quieras)*
+- 📸 Instagram: [@verafe.dev](https://www.instagram.com/verafe.dev/)
+- 🔗 LinkedIn: [Leandro Orderique](https://www.linkedin.com/in/leandro-orderique-402116252/)
+- ✉️ Correo: [verafe2505@gmail.com](mailto:verafe2505@gmail.com)
 
 ---
 
